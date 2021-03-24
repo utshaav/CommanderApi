@@ -69,3 +69,4 @@ C:\Users\utsha\Desktop\Commander\bin\Debug\net5.0\AutoMapper.Extensions.Microsof
 C:\Users\utsha\Desktop\Commander\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\utsha\Desktop\Commander\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\utsha\Desktop\Commander\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\utsha\Desktop\Commander\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
